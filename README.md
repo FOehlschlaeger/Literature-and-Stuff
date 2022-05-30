@@ -2,6 +2,8 @@
 
 This project can be understand as an online library or collection for all kinds of literature and scientific papers related to different topics around software development, programming languages such as Python and Golang, DevOps, Linux, Machine Learning, Data Science, Artificial Intelligence. 
 
+#### Disclaimer
+
 All documents and resources have been collected over time during my working and learning path through these areas. So, I make no claim to completeness, but still you may find something interesting fitting your needs. 
 
 Any feedback will be welcome! 

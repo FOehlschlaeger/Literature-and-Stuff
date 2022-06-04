@@ -33,3 +33,8 @@ Inside each directory you will find:
 
 ### Linux
 - Bash Scripting
+
+### Software Development
+- Scrum
+- Git
+- 

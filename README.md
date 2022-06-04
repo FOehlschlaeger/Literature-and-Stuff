@@ -24,7 +24,7 @@ Inside each directory you will find:
 - Data Science
 - Computer Vision
 
-### DevOps
+### Cloud & DevOps
 - Docker
 - Kubernetes
 
@@ -37,4 +37,3 @@ Inside each directory you will find:
 ### Software Development
 - Scrum
 - Git
-- 

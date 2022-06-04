@@ -22,6 +22,7 @@ Inside each directory you will find:
 - Deep Learning
 - Machine Learning
 - Data Science
+- Computer Vision
 
 ### DevOps
 - Docker
